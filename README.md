@@ -8,12 +8,25 @@
 
   - zalogowanie do github `sign in`
   - stworzenie nowego repozytorium `new` repository
-  - klonowanie do komputera cmd > `git clone adresurl repozytorium`
+  - klonowanie do komputera 
   - wysylanie do repozytorium
+  
+```
+# trzeba uruchamiac w folderze z linii komend cmd 
+
+#klonowanie
+git clone adresurl-repozytorium
+
+# zapisywanie pracy 
+git commit -m komunikat
+
+#wysylanie do serviera github
+git push
+
+```
 
 - **visual studio code**  - program do edycji kodu
   - extension (rozszerzenie) **live server** - mozliwosc podgladu wyniku 
-
 
 
 ```  
@@ -43,30 +56,33 @@ Visual Studio Code
 
 ## 4. podstawowe znaczniki formatowania `b`,`strong`,`i`,`mark`,`small`,`del`,`ins` - https://www.w3schools.com/html/html_formatting.asp
 
-- ZADANIE eksperymenty z roznymi znacznikami, uzyc kazdego znacznika
+- [ ] ZADANIE eksperymenty z roznymi znacznikami, uzyc kazdego znacznika 
 
 
-### 5. linki i obrazki  `a`  , `img` https://www.w3schools.com/html/html_attributes.asp 
+## 5. linki i obrazki  `a`  , `img` https://www.w3schools.com/html/html_attributes.asp 
 
 - img https://www.w3schools.com/html/html_images.asp
 - a https://www.w3schools.com/html/html_links.asp
+- [ ] ZADANIE stwrozyc strukture strony patrz punkt Struktura strony
+- [ ] ZADANIE wkleic obrazek na stronie glownej
 
-### 6. atrybuty
 
-- class   `<div class=""></div>`
+## 6. atrybuty
+
+- class  `<div class=""></div>`
 - href `<a href="">nazwa linku</a>`
 
-### 7. wyglad elementow atrybut, style ( konfiguracja wygladu)
+## 7. wyglad elementow atrybut, style ( konfiguracja wygladu)
 
  - tlo `background-color:`
  - kolor tekstu `color` 
 
-### 8. strona `plan-lekcji.html` znacznik `table` https://www.w3schools.com/html/html_tables.asp
+## 8. strona `plan-lekcji.html` znacznik `table` https://www.w3schools.com/html/html_tables.asp
+
+- [ ] ZADANIE przeniesc plan lekcji 
 
 
-
-
-### 9. stylowanie atrybut `<style>` https://www.w3schools.com/html/html_css.asp
+## 9. stylowanie atrybut `<style>` https://www.w3schools.com/html/html_css.asp
 
  - selektory 
    - `.nazwaclass`  
@@ -77,21 +93,29 @@ Visual Studio Code
    - `margin`
    - `display`
 
-### 10. video format mp4 - https://www.w3schools.com/html/html5_video.asp
+- [ ] ZADANIE przygotowac strukture strony podobna do  https://www.saradietschy.com/
+
+## 10. video format mp4 - https://www.w3schools.com/html/html5_video.asp
 
 - nagranie video, na kamerze
 - upload do formatu internetowego mp4
 
-### 11. Formatowanie strony na wzor https://www.saradietschy.com/
+## 11. Formatowanie strony na wzor, zawartosc  https://www.saradietschy.com/
 
-podstrony
-
-- `index.html` prezentacja, nawigacja 
 
 ```
 czesc jestem Jas uczę się programowac z moim tatą, ta strona jest zrobiona w 100% prze ze mnie.
 ```
 
+### Strona sprzet
+
+- [ ] ZADANIE zobic Zdjecia opisac
+
+## 12. konfiguracja domeny jaskotynia.com
+
+## Struktura strony
+
+- `index.html` prezentacja, nawigacja 
 - `sprzet.html` : komputer,kamera, 
 - `zwierzeta.html` : strona ze zdjeciami i video swinkia
 - `plan-lekcji.html` strona z planem lekcji ( cel jest taki zeby sie ladnie drukowala)
@@ -99,4 +123,3 @@ czesc jestem Jas uczę się programowac z moim tatą, ta strona jest zrobiona w 
   - `jak-powstala-strona.html`
   - `python-gra1.html`
 
-### 12 konfiguracja domeny jaskotynia.com
