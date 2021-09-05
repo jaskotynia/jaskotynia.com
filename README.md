@@ -1,0 +1,2 @@
+# jaskotynia.com
+mojastrona
