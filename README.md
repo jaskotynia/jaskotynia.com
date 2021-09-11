@@ -1,6 +1,6 @@
-# html-css2 
+# html-css2 - kurs dla Jasia cześć 2
 
-- docelowy url   https://jaskotynia.com
+- docelowy url  https://jaskotynia.com
 - Github https://github.com/jaskotynia/jaskotynia.com
 - Publiczna tymczasowa https://jaskotynia.github.io/jaskotynia.com/
 
@@ -15,18 +15,17 @@
   - klonowanie do komputera 
   - wysylanie do repozytorium
   
-```
-# trzeba uruchamiac w folderze z linii komend cmd 
+```bash
+#trzeba uruchamiac w folderze z linii komend cmd 
 
 #klonowanie
 git clone adresurl-repozytorium
 
-# zapisywanie pracy 
+#zapisywanie pracy 
 git commit -m komunikat
 
 #wysylanie do serviera github
 git push
-
 ```
 
 - **visual studio code**  - program do edycji kodu
@@ -39,19 +38,18 @@ Slownik EN
 extension - rozszerzenie
 signin - logowanie
 create - tworzenie
-
-Visual Studio Code
-  - File > New File   nowy plik
-  - File > Save (ctrl+s) zapisanie pliku
 ```
 
+### Visual Studio Code
+
+- `File > New File`   nowy plik
+- `File > Save (ctrl+s)` zapisanie pliku
 
 ## 2. budowa html  znaczniki `html`,`head`,`title`,`body`  https://www.w3schools.com/html/html_intro.asp
 
 - [x] ZADANIE utworzyc plik **index.html**  z podstawowa struktura strony- strona hello world!
 - [x] ZADANIE udostepnienie strony publicznie > https://jaskotynia.github.io/jaskotynia.com/
 
-     
 
 ## 3. podstawowe znaczniki `div` ,`h1` , `h2` ,`h3`,`h4`,`p`,`ul`,`li`
 
@@ -60,14 +58,14 @@ Visual Studio Code
 
 ## 4. podstawowe znaczniki formatowania `b`,`strong`,`i`,`mark`,`small`,`del`,`ins` - https://www.w3schools.com/html/html_formatting.asp
 
-- [ ] ZADANIE eksperymenty z roznymi znacznikami, uzyc kazdego znacznika 
+- [ ] ZADANIE eksperymenty z roznymi znacznikami, uzyc kazdego znacznika na stronie, opublikować strone girhub
 
 
 ## 5. linki i obrazki  `a`  , `img` https://www.w3schools.com/html/html_attributes.asp 
 
 - img https://www.w3schools.com/html/html_images.asp
 - a https://www.w3schools.com/html/html_links.asp
-- [ ] ZADANIE stwrozyc strukture strony patrz punkt Struktura strony
+- [ ] ZADANIE stworzyc strukture strony patrz punkt Struktura strony i nawigacje z pukntu 20
 - [ ] ZADANIE wkleic obrazek na stronie glownej
 
 
@@ -88,27 +86,36 @@ Visual Studio Code
 
 ## 9. stylowanie atrybut `<style>` https://www.w3schools.com/html/html_css.asp
 
- - selektory 
+### 9.1 podstawowe selektory 
    - `.nazwaclass`  
    - `nazwa elementu` np `div {  }`  
- - podstowwe stylowanie
-   - `border`
-   - `padding`
-   - `margin`
-   - `display`
+### 9.2 podstawowe jednostki 
+   - `em` 
+   - `px` 
+### 9.3 podstawowe style służace do formatowania
+   - `border` - brzeg, przykłąd `border: solid 1px red`
+   - `padding` -  odstęp, przykład `border: solid 1px red`
+   - `margin` - margines
+   - `width`
+   - `height`
+   - `float`
+   - `line-height`
+   - `display`- sposób prezentacji przykłady:
+     - `display: inline-block`
+     - `display: block`
 
 - [ ] ZADANIE przygotowac strukture strony podobna do  https://www.saradietschy.com/
 
 ## 10. video format mp4 - https://www.w3schools.com/html/html5_video.asp
 
-- nagranie video, na kamerze
-- upload do formatu internetowego mp4
+- [ ] ZADANIE nagranie video, na kamerze
+- [ ] upload i prosty montaz (kolory) do formatu mp4
 
 ## 11. Formatowanie strony na wzor, zawartosc  https://www.saradietschy.com/
 
 
 ```
-czesc jestem Jas uczę się programowac z moim tatą, ta strona jest zrobiona w 100% prze ze mnie.
+czesc jestem Jas uczę się programowac z moim tatą, ta strona jest zrobiona w 100% przez ze mnie.
 ```
 
 ### Strona sprzet
@@ -117,7 +124,20 @@ czesc jestem Jas uczę się programowac z moim tatą, ta strona jest zrobiona w 
 
 ## 12. konfiguracja domeny jaskotynia.com
 
-## Struktura strony
+- konfiguracja publikacji github
+- obsługa konsoli Amazon Route 53 - https://console.aws.amazon.com/route53
+- [ ] ZADANIE zakup domeny
+
+```
+Słownik EN
+
+- register - rejestracja
+- available - dostepna
+- domain - domena np jaskotynia.com
+```
+
+
+## 20. Struktura strony
 
 - `index.html` prezentacja, nawigacja 
 - `sprzet.html` : komputer,kamera, 
