@@ -1,4 +1,8 @@
-# html-css2 (strona jaskotynia.com publiczna)
+# html-css2 
+
+- docelowy url   https://jaskotynia.com
+- Github https://github.com/jaskotynia/jaskotynia.com
+- Publiczna tymczasowa https://jaskotynia.github.io/jaskotynia.com/
 
 ## 1. narzedzia  
 
