@@ -51,10 +51,11 @@ create - tworzenie
 - [x] ZADANIE udostepnienie strony publicznie > https://jaskotynia.github.io/jaskotynia.com/
 
 
-## 3. podstawowe znaczniki `div` ,`h1` , `h2` ,`h3`,`h4`,`p`,`ul`,`li`
+## 3. podstawowe znaczniki `div` ,`span`,`h1` , `h2` ,`h3`,`h4`,`p`,`ul`>`li`
 
 - https://www.w3schools.com/html/html_basic.asp 
 - https://www.w3schools.com/html/html_elements.asp
+- https://www.w3schools.com/tags/tag_ul.asp
 
 ## 4. podstawowe znaczniki formatowania `b`,`strong`,`i`,`mark`,`small`,`del`,`ins` - https://www.w3schools.com/html/html_formatting.asp
 
