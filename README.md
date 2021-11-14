@@ -79,6 +79,8 @@ create - tworzenie
 
  - tlo `background-color:`
  - kolor tekstu `color` 
+ - `font-size`
+ - `font-align`
 
 ## 8. strona `plan-lekcji.html` znacznik `table` https://www.w3schools.com/html/html_tables.asp
 
