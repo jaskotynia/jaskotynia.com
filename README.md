@@ -97,8 +97,8 @@ create - tworzenie
    - `px` 
 ### 9.3 podstawowe style służace do formatowania
    - `border` - brzeg, przykłąd `border: solid 1px red`
-   - `padding` -  odstęp, przykład `border: solid 1px red`
-   - `margin` - margines
+   - `padding` -  odstęp, przykład `padding:10px`
+   - `margin` - margines, przykład `margin :10px`
    - `width`
    - `height`
    - `float`
