@@ -74,7 +74,7 @@ create - tworzenie
 
 - class  `<div class=""></div>`
 - href `<a href="">nazwa linku</a>`
-
+- style `<div style=""></div>`
 ## 7. wyglad elementow atrybut, style ( konfiguracja wygladu)
 
  - tlo `background-color:`
