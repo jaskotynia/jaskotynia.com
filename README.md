@@ -74,11 +74,13 @@ create - tworzenie
 
 - class  `<div class=""></div>`
 - href `<a href="">nazwa linku</a>`
-
+- style `<div style=""></div>`
 ## 7. wyglad elementow atrybut, style ( konfiguracja wygladu)
 
  - tlo `background-color:`
  - kolor tekstu `color` 
+ - `font-size`
+ - `text-align`
 
 ## 8. strona `plan-lekcji.html` znacznik `table` https://www.w3schools.com/html/html_tables.asp
 
@@ -95,8 +97,8 @@ create - tworzenie
    - `px` 
 ### 9.3 podstawowe style służace do formatowania
    - `border` - brzeg, przykłąd `border: solid 1px red`
-   - `padding` -  odstęp, przykład `border: solid 1px red`
-   - `margin` - margines
+   - `padding` -  odstęp, przykład `padding:10px`
+   - `margin` - margines, przykład `margin :10px`
    - `width`
    - `height`
    - `float`
