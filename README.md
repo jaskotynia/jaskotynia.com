@@ -59,7 +59,7 @@ create - tworzenie
 
 ## 4. podstawowe znaczniki formatowania `b`,`strong`,`i`,`mark`,`small`,`del`,`ins` - https://www.w3schools.com/html/html_formatting.asp
 
-- [ ] ZADANIE eksperymenty z roznymi znacznikami, uzyc kazdego znacznika na stronie, opublikować strone girhub
+- [x] ZADANIE eksperymenty z roznymi znacznikami, uzyc kazdego znacznika na stronie, opublikować strone girhub
 
 
 ## 5. linki i obrazki  `a`  , `img` https://www.w3schools.com/html/html_attributes.asp 
@@ -67,20 +67,20 @@ create - tworzenie
 - img https://www.w3schools.com/html/html_images.asp
 - a https://www.w3schools.com/html/html_links.asp
 - [ ] ZADANIE stworzyc strukture strony patrz punkt Struktura strony i nawigacje z pukntu 20
-- [ ] ZADANIE wkleic obrazek na stronie glownej
+- [x] ZADANIE wkleic obrazek na stronie glownej
 
 
 ## 6. atrybuty
 
-- class  `<div class=""></div>`
-- href `<a href="">nazwa linku</a>`
-- style `<div style=""></div>`
-## 7. wyglad elementow atrybut, style ( konfiguracja wygladu)
+- `class` - `<div class=""></div>`
+- `href` - `<a href="">nazwa linku</a>`
+- `style` - `<div style=""></div>`
+## 7. wyglad elementow atrybut, style ( konfiguracja wygladu) przykłady
 
- - tlo `background-color:`
- - kolor tekstu `color` 
- - `font-size`
- - `text-align`
+ - `background-color:blue` - 
+ - `color:red` - kolor tekstu 
+ - `font-size:15px` - wielkosci
+ - `text-align:left` - wyrownanie
 
 ## 8. strona `plan-lekcji.html` znacznik `table` https://www.w3schools.com/html/html_tables.asp
 
