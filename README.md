@@ -66,7 +66,6 @@ create - tworzenie
 
 - img https://www.w3schools.com/html/html_images.asp
 - a https://www.w3schools.com/html/html_links.asp
-- [ ] ZADANIE stworzyc strukture strony patrz punkt Struktura strony i nawigacje z pukntu 20
 - [x] ZADANIE wkleic obrazek na stronie glownej
 
 
@@ -84,7 +83,7 @@ create - tworzenie
 
 ## 8. strona `plan-lekcji.html` znacznik `table` https://www.w3schools.com/html/html_tables.asp
 
-- [ ] ZADANIE przeniesc plan lekcji 
+- [x] ZADANIE przeniesc plan lekcji 
 
 
 ## 9. stylowanie atrybut `<style>` https://www.w3schools.com/html/html_css.asp
@@ -107,12 +106,19 @@ create - tworzenie
      - `display: inline-block`
      - `display: block`
 
-- [ ] ZADANIE przygotowac strukture strony podobna do  https://www.saradietschy.com/
+## 10. import css framework 
+
+
+- [ ] Załączenie zewnętrznego pliku css https://www.w3schools.com/w3css/4/w3.css 
+  - https://www.w3schools.com/w3css/defaulT.asp
+  - https://www.w3schools.com/w3css/w3css_references.asp - lista klas css
+  - przykladowe klasy `w3-content` , `w3-table` , `w3-button`
+- [ ] ZADANIE stworzyc nawigacje z punktu 20 i strony ze struktury ( na razie puste) 
 
 ## 10. video format mp4 - https://www.w3schools.com/html/html5_video.asp
 
 - [ ] ZADANIE nagranie video, na kamerze
-- [ ] upload i prosty montaz (kolory) do formatu mp4
+- [ ] upload i prosty montaz  do formatu mp4
 
 ## 11. Formatowanie strony na wzor, zawartosc  https://www.saradietschy.com/
 
@@ -144,7 +150,7 @@ Słownik EN
 
 - `index.html` prezentacja, nawigacja 
 - `sprzet.html` : komputer,kamera, 
-- `zwierzeta.html` : strona ze zdjeciami i video swinkia
+- `moje-zwierzeta.html` : strona ze zdjeciami i video swinkia
 - `plan-lekcji.html` strona z planem lekcji ( cel jest taki zeby sie ladnie drukowala)
 - `projekty.html`  gdzie bedziemy umieszczac projekty np ger python
   - `jak-powstala-strona.html`
