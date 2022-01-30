@@ -100,7 +100,7 @@ create - tworzenie
 
 ## 8. strona `plan-lekcji.html` znacznik `table` https://www.w3schools.com/html/html_tables.asp
 
-- [ ] ZADANIE przeniesc plan lekcji 
+- [x] ZADANIE przeniesc plan lekcji 
 
 
 ## 9. stylowanie atrybut `<style>` https://www.w3schools.com/html/html_css.asp
@@ -123,19 +123,29 @@ create - tworzenie
      - `display: inline-block`
      - `display: block`
 
-- [ ] ZADANIE przygotowac strukture strony podobna do  https://www.saradietschy.com/
 
-## 10. video format mp4 - https://www.w3schools.com/html/html5_video.asp
+
+
+## 10. Nawigacja strony cz1.
+
+- [ ] framewrok css https://www.w3schools.com/w3css/w3css_downloads.asp
+- [ ] dolaczenie do strony stylów, pobranie i dołaczenie zgodnie z przykłądem
+- [ ] przygotowanie nawigaji  podobna do  https://www.saradietschy.com/
+- [ ] zalaczenie ikon  np do strony o zwierzetach jakies zwierze
+
+- `index.html` strona startowa
+- `sprzet.html` :  Sprzęt komputer,kamera, 
+- `zwierzeta.html` : Zwierzęta strona ze zdjeciami i video swinkia
+- `plan-lekcji.html` Plan lekcji strona z planem lekcji ( cel jest taki zeby sie ladnie drukowala)
+- `projekty.html`  gdzie bedziemy umieszczac projekty np ger python
+  - `jak-powstala-strona.html`
+  - `python-gra1.html`
+
+
+## 11. video format mp4 - https://www.w3schools.com/html/html5_video.asp
 
 - [ ] ZADANIE nagranie video, na kamerze
 - [ ] upload i prosty montaz (kolory) do formatu mp4
-
-## 11. Formatowanie strony na wzor, zawartosc  https://www.saradietschy.com/
-
-
-```
-czesc jestem Jas uczę się programowac z moim tatą, ta strona jest zrobiona w 100% przez ze mnie.
-```
 
 ### Strona sprzet
 
@@ -156,13 +166,4 @@ Słownik EN
 ```
 
 
-## 20. Struktura strony
-
-- `index.html` prezentacja, nawigacja 
-- `sprzet.html` : komputer,kamera, 
-- `zwierzeta.html` : strona ze zdjeciami i video swinkia
-- `plan-lekcji.html` strona z planem lekcji ( cel jest taki zeby sie ladnie drukowala)
-- `projekty.html`  gdzie bedziemy umieszczac projekty np ger python
-  - `jak-powstala-strona.html`
-  - `python-gra1.html`
 
