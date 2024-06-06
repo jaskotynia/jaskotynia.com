@@ -128,7 +128,8 @@ create - tworzenie
 
 ## 10. Nawigacja strony cz1.
 
-- [ ] framewrok css https://www.w3schools.com/w3css/w3css_downloads.asp
+- [ ] grid  https://gridbyexample.com/examples/
+  - `display: grid;grid-template-columns: repeat(12, minmax(10px, 1fr)`
 - [ ] dolaczenie do strony stylów, pobranie i dołaczenie zgodnie z przykłądem
 - [ ] przygotowanie nawigaji  podobna do  https://www.saradietschy.com/
 - [ ] zalaczenie ikon  np do strony o zwierzetach jakies zwierze
